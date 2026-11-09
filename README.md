@@ -1,5 +1,5 @@
 # HSE LMS
 
-Public profile and original visual assets for the HSE LMS educational integration project.
+Public organization profile for the HSE LMS educational integration project.
 
-[Organization](https://github.com/hse-lms) | [Profile](profile/README.md)
+[Organization](https://github.com/hse-lms) · [Profile](profile/README.md) · [HSE logo source](assets/README.md)
