@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/hse-lms/.github/main/assets/avatar.png" alt="Логотип НИУ ВШЭ" width="112">
-<br><br>
 <strong>Единая LMS для дисциплины «Программирование»</strong><br>
 Задания · Wiki · сдачи · проверки · оценки
 </div>
